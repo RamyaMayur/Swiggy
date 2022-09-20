@@ -1,0 +1,188 @@
+.bg{
+    position: absolute;
+    left: 55%;
+}
+
+body{
+    margin: 0;
+}
+
+.login{
+    position: absolute;
+    left: 35%;
+    top: 85px;
+}
+
+.logo{
+    position: absolute;
+    top: 70px;
+    margin-left: 65px;
+}
+
+#btn1 {
+    background-color:white;
+    color: black;
+    padding: 10px 25px;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+#btn2 {
+    background-color: black;
+    color: white;
+    padding: 10px 25px;
+    font-size: 16px;
+    font-weight: 600;
+    text-decoration: none;
+}
+
+.mark{
+    position: absolute;
+    margin-left: 65px;
+    top: 200px;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.headding1{
+    position: absolute;
+    margin-left: 65px;
+    top: 36%;
+    font-size: 24px;
+    font-weight: 300;
+    margin-top: 0;
+    color:rgb(58, 57, 57);
+}
+
+.search{
+    display: flex;
+    position: absolute;
+    margin-left: 65px;
+    top: 45%;
+}
+
+.search input{
+    height: 30px;
+    width: 466px;
+    padding-left: 10px; 
+    font-size: 20px;
+    border: 1px solid rgb(219, 213, 213);
+}
+
+.search button{
+    width: 160px;
+    background-color: #fc8019;
+    color: white;
+    border: none;
+    font-size: 20px;    
+}
+
+.headding2{
+    position: absolute;
+    margin-left: 65px;
+    top: 57%;
+}
+
+li{
+    display: inline-block;
+}
+
+.headding2{
+    font-weight: 400;
+    font-size: 15px;
+    color: rgb(168, 164, 164);
+    margin-top: 30px;
+}
+
+.cities{
+    position: absolute;
+    margin-left: 22px;
+    top: 60%;
+    font-size: 18px;
+    margin-top: 20px ;
+}
+
+.cities a{
+    text-decoration: none;
+    padding: 3px;  
+}
+
+.a{
+    color: #686b78;
+}
+.b{
+    color: #93959f;
+}
+
+.bottom{
+    position: absolute;
+    top: 85%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(36, 16, 16);
+    align-items: center;
+}
+
+.img1{
+    color: white;
+    text-align: center;
+    width: 250px;
+}
+
+.img1 p{
+    font-size: 15px;
+}
+
+.bdy{
+    margin: 10px;
+}
+
+.log{
+    margin-top: -20px;
+}
+
+.log a{
+    text-decoration: 0;
+    color: #fc8020;
+}
+
+.forms{
+    background-color: whitesmoke;
+    border: 1px solid rgb(170, 166, 166) ;
+    max-width: 35%;
+    padding: 25px;
+    text-align: center;
+}
+
+input{
+    border: 0;
+    padding: 25px;
+    width: 240px;
+}
+
+#code{
+    text-decoration: 0;
+    color: rgb(146, 146, 245); 
+}
+
+.continue{
+    text-decoration: none;
+    background-color: #fc8020;
+    color: white;
+    text-align: center;
+    padding: 15px 145px;
+    font-size: 22px;  
+}
+
+.bdy{
+    margin-left: 40%;
+    background-color: white;
+}
+
+.tc{
+    
+    color: #93959f;
+    font-size: 15px;
+}

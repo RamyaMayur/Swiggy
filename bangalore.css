@@ -1,0 +1,109 @@
+body {
+    margin: 0;
+}
+.navbar {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    position: fixed;
+    top: 0px;
+    align-items: center;
+    width: 100%;
+    height: 85px;
+}
+.logo {
+    margin-left: 65px;
+}
+.right li {
+    display: inline;
+    margin-right: 70px;
+}
+.right a:hover {
+    color: #FC8019;
+}
+a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+}
+.topcont {
+    background-color: #494D60;
+    height: 360px;
+    padding: 30px;
+    display: flex;
+    align-items: center;
+}
+.content {
+    margin-left: 40px;
+    margin-top: 60px;
+    color: white;
+}
+.content h1 {
+    font-size: 40px;
+}
+.search {
+    display: flex;
+}
+.search input {
+    height: 41px;
+    width: 350px;
+    padding-left: 10px;
+}
+.search button {
+    width: 130px;
+    background-color: #FC8019;
+    color: white;
+    border: none;
+    font-size: 15px;
+}
+.home {
+    position: sticky;
+    top: 86px;
+    padding: 10px;
+    background-color: rgb(238, 232, 232);
+}
+.home a {
+    margin-left: 62px;
+    font-size: 15px;
+}
+.para {
+    margin-left: 70px;
+    max-width: 80%;
+}
+.para p {
+    font-size: 20px;
+}
+.para h1 {
+    margin-top: 75px;
+}
+.places {
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    width: 90%;
+}
+.places div {
+    padding: 5px;
+    margin-left: -3px;
+}
+.siximg {
+    margin-left: 70px;
+    margin-top: 75px;
+}
+.top {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 70px;
+}
+.bottom {
+    display: flex;
+    justify-content: space-between;
+    margin-right: 70px;
+    margin-top: 5px;
+}
+.bottom img {
+    border-radius: 20px;
+}
+.top img {
+    border-radius: 20px;
+}
